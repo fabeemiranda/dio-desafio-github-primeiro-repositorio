@@ -4,7 +4,7 @@
 
 **2** Abra o Git Bash na pasta desejada.
 
-**3** Colocar no Git Bash o comando `git clone` com o código do repositório e aperta `ENTER`.
+**3** Colocar no Git Bash o comando `git clone` com o código do repositório e `ENTER`.
 
 **4**  Depois de inserir todas as modificações vamos jogá-lo novamente para o GitHub em 3 passos.
 
@@ -12,7 +12,7 @@
 
 **6** Segundo, usamos o comando `git commit -m`, adicionamos (entre `"`) um comentário referente a atualização e `ENTER`.
 
-**7** E por último, usamos o comando `git push origin main`.
+**7** E por último, usamos o comando `git push origin main` e `ENTER`.
 
 #### Pronto! :raised_hands:
 

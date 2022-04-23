@@ -1,1 +1,1 @@
-Estou criando esse arquivo à partir do Git Bash
+Estou criando esse arquivo à partir do Git Bash.
